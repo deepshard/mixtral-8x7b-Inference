@@ -9,8 +9,8 @@ Welcome to the Mistral Simple Inference Server, a straightforward setup to run i
 First, you need to clone the repository containing the necessary scripts and files for the inference server.
 
 ```bash
-git clone [URL to Mistral Inference Server repository]
-cd [Repository Name]
+git clone https://github.com/deepshard/mixtral-inference-simple/
+cd mixtral-inference-simple
 ```
 
 ### Step 2: Setup Environment
