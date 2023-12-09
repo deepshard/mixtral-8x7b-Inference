@@ -1,7 +1,8 @@
-# Mistral Simple Inference Server
+# mixtral-8x7b-32kseqlen Inference Server
+
 
 ## Introduction
-Welcome to the Mistral Simple Inference Server, a straightforward setup to run inferences using the Mixtral model, recently released by Mistral. This guide will help you set up and run a basic inference server for the Mixtral model.
+Not the greatest code in the world, but it works. This loads the Mixtral8x7B model onto your GPU's and serves it locally
 
 ## Getting Started
 
